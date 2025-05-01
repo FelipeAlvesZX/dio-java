@@ -2,8 +2,8 @@
 Repositorio Bootcamp Bradesco - Java Cloud Native
 
 ## Strutura de pastas
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: sources
+- `lib`: Bibliotecas
 
 
 ## Dependency Management
