@@ -4,6 +4,7 @@ Crie um programa que classifique os clientes de um banco com base no saldo de su
 <li> "Negativado" para saldos abaixo de zero.</li>
 <li> "Baixo" para saldos entre 0 e 500, inclusive.</li>
 <li> "Confortavel" para saldos acima de 500.</li>
+
 ## Entrada
 Um número decimal representando o saldo de um cliente.
 
