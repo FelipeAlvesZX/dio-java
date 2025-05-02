@@ -4,8 +4,8 @@ Implemente um programa em Java que receba o saldo inicial de uma conta bancária
 ## Entrada
 O programa deve receber:
 
-<li>Um número decimal representando o saldo inicial.<li>
-<li>Três números decimais representando os valores das transações.<li>
+Um número decimal representando o saldo inicial.
+Três números decimais representando os valores das transações.
 
 ## Saída
 O saldo final da conta bancária após as três transações.
