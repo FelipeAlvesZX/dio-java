@@ -1,6 +1,6 @@
 package candidatura;
 
-public class ProcessoSeletivo {
+public class ProcessoSeletivo1 {
 
     public static void main(String[] args) {
         analisarCandidato(1900.0);
